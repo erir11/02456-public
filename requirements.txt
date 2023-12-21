@@ -9,4 +9,3 @@ transformers
 wandb
 opencv-python
 kornia
-gdown
