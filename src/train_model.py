@@ -13,7 +13,7 @@ import torch.nn as nn
 import cv2
 from PIL import Image
 import wandb
-from metric import  mean_iou, mean_dice
+from src.metric import  mean_iou, mean_dice
 from visualize import plot_eval
 from kornia.losses import FocalLoss
 from kornia.losses import LovaszSoftmaxLoss
