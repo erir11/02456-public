@@ -1,0 +1,11 @@
+torch
+pytorch_lightning
+torchvision
+torchmetrics
+numpy
+pandas
+matplotlib
+transformers
+wandb
+opencv-python
+kornia
